@@ -1,3 +1,3 @@
-module github.com/perebeynos/go-fitness-trucker.git
+module github.com/Yandex-Practicum/go-first-floor-sprint-four
 
-go 1.22.5
+go 1.20
